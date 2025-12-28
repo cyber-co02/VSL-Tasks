@@ -1,4 +1,4 @@
-![alt text](images/image.png)
+![alt text](images/cryptography-overview.png)
 ---
 # Tổng quan về mật mã học
 
